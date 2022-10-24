@@ -1,2 +1,2 @@
 # Spring-Applications
-This is for TEsting Purposes
+This is for Testing Purposes
